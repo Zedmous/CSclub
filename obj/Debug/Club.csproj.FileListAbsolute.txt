@@ -1,0 +1,14 @@
+E:\CFC\C#\Club\obj\Debug\Club.csprojAssemblyReference.cache
+E:\CFC\C#\Club\obj\Debug\Club.VLogin.resources
+E:\CFC\C#\Club\obj\Debug\Club.VCarton.resources
+E:\CFC\C#\Club\obj\Debug\Club.VBingo.resources
+E:\CFC\C#\Club\obj\Debug\Club.VLoteria.resources
+E:\CFC\C#\Club\obj\Debug\Club.VMenu.resources
+E:\CFC\C#\Club\obj\Debug\Club.Properties.Resources.resources
+E:\CFC\C#\Club\obj\Debug\Club.csproj.GenerateResource.cache
+E:\CFC\C#\Club\obj\Debug\Club.csproj.CoreCompileInputs.cache
+E:\CFC\C#\Club\bin\Debug\Club.exe.config
+E:\CFC\C#\Club\bin\Debug\Club.exe
+E:\CFC\C#\Club\bin\Debug\Club.pdb
+E:\CFC\C#\Club\obj\Debug\Club.exe
+E:\CFC\C#\Club\obj\Debug\Club.pdb
